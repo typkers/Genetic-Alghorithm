@@ -1,3 +1,4 @@
+# Explanation:
 I wrote the main logic of the genetic algorithm, including:
 CBestIndividual – Keeps track of the best solution found so far.
 CGeneticAlgorithm – Runs the entire genetic algorithm, handling selection, crossover, mutation, and stopping conditions.
